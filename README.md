@@ -19,7 +19,7 @@ Nesse video, quando adicionamos algumas músicas, vemos que em seguida a caixinh
 
 # Ferramentas ultilizadas
 * HTML5 
-* CSS]
+* CSS
 * GitRub  
 * [Mdn Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 * [Freepik](https://br.freepik.com/)
